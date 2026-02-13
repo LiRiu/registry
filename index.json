@@ -1678,7 +1678,7 @@
       "source_repo": "wsturgiss/openpeon-solid-snake",
       "source_ref": "v1.0.0",
       "source_path": "",
-      "manifest_sha256": "541af30335ea2b8da30c8184782d492ec1ae495a43ce4121db718b02cf54f940",
+      "manifest_sha256": "0169b33580bbe22a02d9b3bdff1e73236d1532f53a1d538c944aaab169321cb9",
       "tags": [
         "gaming",
         "metal-gear-solid",
@@ -1959,7 +1959,7 @@
       "source_repo": "lucaspwo/openpeon-wc2-peasant-pt-br",
       "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "4c5de46ecc8790e9126b57420d9255a86272b40f11c0768c4eee7c73456ef823",
+      "manifest_sha256": "d8bc8d8fb97e5099dabe8d455dc3e93067fc1cbd4eeb114de25e9e7a131c95bc",
       "tags": [
         "gaming",
         "warcraft",
