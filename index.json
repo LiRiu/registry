@@ -2417,7 +2417,7 @@
     {
       "name": "ae_qianyu",
       "display_name": "明日方舟:终末地 陈千语",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "description": "明日方舟:终末地 陈千语 语音包",
       "author": {
         "name": "LiRiu",
@@ -2437,19 +2437,19 @@
       "sound_count": 9,
       "total_size_bytes": 364120,
       "source_repo": "LiRiu/qianyu-chen-pack",
-      "source_ref": "v1.0.3",
+      "source_ref": "v1.0.4",
       "source_path": ".",
-      "manifest_sha256": "2a61b5d33053506501b9a81f887ebb7956b8f21901313af18e23ef5ee6e661d4",
+      "manifest_sha256": "50fd5866b2f025deba93723ceae9aa77ef88302efa7915711d881222c391d67b",
       "tags": [
         "gaming",
         "明日方舟:终末地",
         "arknights:endfield"
       ],
       "preview_sounds": [
-        "new/new-1.mp3",
-        "dang/dang-1.mp3",
-        "dang/dang-2.mp3",
-        "dang/dang-3.mp3"
+        "new-1.mp3",
+        "dang-1.mp3",
+        "dang-2.mp3",
+        "dang-3.mp3"
       ],
       "added": "2026-02-15",
       "updated": "2026-02-15"
