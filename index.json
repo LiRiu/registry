@@ -2777,6 +2777,46 @@
       "updated": "2026-03-16"
     },
     {
+      "name": "ds1-solaire",
+      "display_name": "Dark Souls – Solaire of Astora",
+      "version": "1.0.0",
+      "description": "A sound pack for true warriors of sunlight.",
+      "author": {
+        "name": "Joshua Fiebak",
+        "github": "jmfiebak"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam",
+        "user.end"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 46,
+      "total_size_bytes": 1507852,
+      "source_repo": "jmfiebak/openpeon-solaire-sound-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "c5aa5a8d77c6a74d5a0bfe4eaa9b2848cefd05b42de9fd812454c18fdc86ac62",
+      "tags": [
+        "gaming",
+        "dark souls",
+        "ds",
+        "solaire",
+        "character"
+      ],
+      "preview_sounds": ["SolaireChoiceIsYours.mp3", "SolaireHelloStillHere.mp3", "SolaireProposition.mp3"],
+      "added": "2026-03-23",
+      "updated": "2026-03-23"
+    },
+    {
       "name": "duke_nukem",
       "display_name": "Duke Nukem",
       "version": "1.0.0",
